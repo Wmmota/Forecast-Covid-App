@@ -1,0 +1,13 @@
+future
+pandas
+numpy
+ipywidgets
+plotly
+folium
+fbprophet
+matplotlib
+datetime
+voila
+seaborn
+Cython>=0.22
+pystan==2.19.1.1
